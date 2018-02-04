@@ -3,7 +3,7 @@ title:  "El Lugar"
 subtitle: ""
 author: ""
 avatar: ""
-image: ""
+image: "img/k.jpg"
 date:   2018-02-01 12:12:12
 ---
 

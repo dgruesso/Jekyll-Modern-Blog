@@ -3,7 +3,7 @@ title:  "Contáctanos"
 subtitle: ""
 author: ""
 avatar: ""
-image: ""
+image: "img/e.jpg"
 date:   2018-02-02 12:12:12
 ---
 

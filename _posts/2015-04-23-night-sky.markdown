@@ -3,7 +3,7 @@ title:  "La Ciudad"
 subtitle: ""
 author: ""
 avatar: ""
-image: ""
+image: "img/a.jpg"
 date:   2018-02-03 12:12:12
 ---
 
